@@ -1,2 +1,8 @@
-# shenron-grub-theme
-Shenron (DBZ's Dragon) Grub Theme. Based on Dark Matter Grub Theme
+# Shenron grub theme
+
+This is a cheap copy of VandalByte's [Dark Matter Theme](https://gitlab.com/VandalByte/darkmatter-grub-theme).
+It uses exclusively white icons along with the dragon.
+
+## Usage
+
+## Screenshots
